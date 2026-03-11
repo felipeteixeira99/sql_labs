@@ -2,6 +2,8 @@
 --Parecido com o o upsert (insert on conflict)
 --Util para sincronização de tabelas (pode aplicar as tres operacoes em uma unica execução INSERT, UPDATE, DELETE)
 
+--Teste 01
+
 /*Destino dos dados*/
 merge
 into
